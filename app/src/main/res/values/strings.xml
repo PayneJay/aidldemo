@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDLDemo</string>
+    <string name="text_open_account">开户</string>
+    <string name="text_save_money">存款</string>
+    <string name="text_take_money">取款</string>
+    <string name="text_close_account">注销账户</string>
+</resources>
